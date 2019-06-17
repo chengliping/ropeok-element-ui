@@ -3,7 +3,7 @@
     <div>
 
     <div class="container" ref="wise">
-      <h1>测试 直接使用 element-ui button 组件</h1>
+      <h1>测试 直接使用 element-ui button 组件111111111</h1>
       <el-button type="primary">element bottom</el-button>
       <h1>测试 封装一层 element-ui table 组件</h1>
       <rk-table
